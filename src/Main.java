@@ -18,6 +18,7 @@ public class Main {
         System.out.println("4: 除法 (/)");
         System.out.println("5.kaifang()");
         System.out.println(("asdjklkljdakjdjskld"));
+        System.out.println("ajkdjksdjkahrhvqklheerakljhcklar");
         System.out.print("输入你的选择 (1/2/3/4): ");
         int choice = scanner.nextInt();
 
