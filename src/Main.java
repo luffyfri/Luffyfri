@@ -10,7 +10,6 @@ public class Main {
 
         System.out.print("请输入第二个数字: ");
         double num2 = scanner.nextDouble();
-
         System.out.println("请选择操作: ");
         System.out.println("1: 加法 (+)");
         System.out.println("2: 减法 (-)");
